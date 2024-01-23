@@ -1,25 +1,32 @@
-import logo from './logo.svg';
 import './App.css';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import FrontPage from './components/FrontPage';
+import Navbar from './components/Navbar';
+import Skills from './components/Skills';
+import Footer from './components/Footer';
+import About from './components/About';
+import Projects from './components/Projects';
+import { ScrollProvider } from './context/ScrollContext';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	return (
+		<div className='App bg-black'>
+			<Router>
+				<Switch>
+					<Route path='/' exact>
+						<ScrollProvider>
+							<FrontPage />
+							<Navbar />
+							<About />
+							<Projects />
+							<Skills />
+							<Footer />
+						</ScrollProvider>
+					</Route>
+				</Switch>
+			</Router>
+		</div>
+	);
 }
 
 export default App;
