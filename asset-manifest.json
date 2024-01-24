@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/krishnakumar_chavan/static/css/main.eb5fdc5e.chunk.css",
+    "main.js": "/krishnakumar_chavan/static/js/main.d779ce89.chunk.js",
+    "main.js.map": "/krishnakumar_chavan/static/js/main.d779ce89.chunk.js.map",
+    "runtime-main.js": "/krishnakumar_chavan/static/js/runtime-main.02431289.js",
+    "runtime-main.js.map": "/krishnakumar_chavan/static/js/runtime-main.02431289.js.map",
+    "static/css/2.e3992f5a.chunk.css": "/krishnakumar_chavan/static/css/2.e3992f5a.chunk.css",
+    "static/js/2.a8f39558.chunk.js": "/krishnakumar_chavan/static/js/2.a8f39558.chunk.js",
+    "static/js/2.a8f39558.chunk.js.map": "/krishnakumar_chavan/static/js/2.a8f39558.chunk.js.map",
+    "static/js/3.bc9af522.chunk.js": "/krishnakumar_chavan/static/js/3.bc9af522.chunk.js",
+    "static/js/3.bc9af522.chunk.js.map": "/krishnakumar_chavan/static/js/3.bc9af522.chunk.js.map",
+    "index.html": "/krishnakumar_chavan/index.html",
+    "static/css/2.e3992f5a.chunk.css.map": "/krishnakumar_chavan/static/css/2.e3992f5a.chunk.css.map",
+    "static/css/main.eb5fdc5e.chunk.css.map": "/krishnakumar_chavan/static/css/main.eb5fdc5e.chunk.css.map",
+    "static/js/2.a8f39558.chunk.js.LICENSE.txt": "/krishnakumar_chavan/static/js/2.a8f39558.chunk.js.LICENSE.txt",
+    "static/media/Gesture.12a8a288.jpg": "/krishnakumar_chavan/static/media/Gesture.12a8a288.jpg",
+    "static/media/Hemoscribe.05e34c5f.jpg": "/krishnakumar_chavan/static/media/Hemoscribe.05e34c5f.jpg",
+    "static/media/chickfork.cacc72b3.jpg": "/krishnakumar_chavan/static/media/chickfork.cacc72b3.jpg",
+    "static/media/insta_fill.44373db6.jpg": "/krishnakumar_chavan/static/media/insta_fill.44373db6.jpg",
+    "static/media/mail_f.3ccde77f.jpg": "/krishnakumar_chavan/static/media/mail_f.3ccde77f.jpg",
+    "static/media/outlook_f.277f2109.jpg": "/krishnakumar_chavan/static/media/outlook_f.277f2109.jpg",
+    "static/media/profile_pic2.fbcd00a7.jpg": "/krishnakumar_chavan/static/media/profile_pic2.fbcd00a7.jpg",
+    "static/media/profile_pic_cropped.5e81796a.jpg": "/krishnakumar_chavan/static/media/profile_pic_cropped.5e81796a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02431289.js",
+    "static/css/2.e3992f5a.chunk.css",
+    "static/js/2.a8f39558.chunk.js",
+    "static/css/main.eb5fdc5e.chunk.css",
+    "static/js/main.d779ce89.chunk.js"
+  ]
+}
