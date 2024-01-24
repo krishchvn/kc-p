@@ -1,4 +1,5 @@
 {
+	"homepage": "https://krishchvn.github.io/kc-p",
 	"name": "kcp",
 	"version": "0.1.0",
 	"private": true,
@@ -31,7 +32,9 @@
 		"start": "craco start",
 		"build": "craco build",
 		"test": "craco test",
-		"eject": "react-scripts eject"
+		"eject": "react-scripts eject",
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d build"
 	},
 	"eslintConfig": {
 		"extends": [
@@ -53,6 +56,7 @@
 	},
 	"devDependencies": {
 		"autoprefixer": "^9.8.8",
+		"gh-pages": "^6.1.1",
 		"postcss": "^7.0.39",
 		"tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17"
 	}
